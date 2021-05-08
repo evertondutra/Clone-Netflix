@@ -1,1 +1,1 @@
-##  Página clode do Netiflix
+##  Página clone do Netflix
